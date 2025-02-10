@@ -1,4 +1,3 @@
-import "./style.css";
-
 const app = document.getElementById("app");
-app.textContent = "Hello World!";
+app.textContent = "TailwindCSS working";
+app.classList = "text-5xl";
